@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="sticky top-0 bg-zinc-900/50 backdrop-blur-lg">
-      <div className="container mx-auto">
+      <div className="container">
         <div className="flex justify-between items-center h-24 md:h-28">
           <div>
             <img src="/assets/icons/logo.svg" alt="Blockforge Logo" />
